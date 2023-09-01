@@ -5,18 +5,18 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://benawi.github.io/home">benawi.github.io/home</a>
+    <a href="https://benawi.github.io/Portfolio-React-App/">benawi</a>
     <br />
     <br />
     <a href="https://benawi.github.io">About Me</a>
   </p>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/benawi/home?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/benawi/home?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/benawi/home?style=for-the-badge)](https://github.com/benawi/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/benawi/home?color=ffcc66&style=for-the-badge)](https://github.com/benawi/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/benawi/home?style=for-the-badge)](https://github.com/benawi/home/blob/master/LICENSE)
+![GitHub contributors](https://img.shields.io/github/contributors/benawi/Portfolio-React-App?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/benawi/Portfolio-React-App?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/benawi/Portfolio-React-App?style=for-the-badge)](https://github.com/benawi/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/benawi/Portfolio-React-App?color=ffcc66&style=for-the-badge)](https://github.com/benawi/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/benawi/Portfolio-React-App?style=for-the-badge)](https://github.com/benawi/Portfolio-React-App/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/benawi?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/benawi)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=v18.13.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
@@ -84,7 +84,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/<your-username>/Portfolio-React-App.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
@@ -95,7 +95,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-    "homepage": "https://<your-username>.github.io/home"
+    "homepage": "https://<your-username>.github.io/Portfolio-React-App"
    ```
 
    Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
@@ -119,7 +119,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 9. Congrats your site is up and running. To see it live, visit:
 
    ```https
-     https://<your-username>.github.io/home
+     https://<your-username>.github.io/Portfolio-React-App
    ```
 
 10. To change the thumbnail image:
@@ -144,4 +144,4 @@ This project has been archived. Means that it is no longer actively maintained b
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/benawi/home.svg)](https://starchart.cc/benawi/home)
+[![Stargazers over time](https://starchart.cc/benawi/Portfolio-React-App.svg)](https://starchart.cc/benawi/Portfolio-React-App)
