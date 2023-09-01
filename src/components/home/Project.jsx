@@ -76,16 +76,17 @@ const Project = ({ heading, username, length, specfic }) => {
 
 
       </Container>
+      <div className=" text-center">
 
-    </Jumbotron><div className=" text-center">
-
-        <a
-          href={`https://github.com/Benawi?tab=repositories`}
-          className="btn btn-outline-secondary mx-3 btn-lg"
-        >
-          <i className="fab fa-github" /> More Latest Projects
-        </a>
-      </div></>
+<a
+  href={`https://github.com/Benawi?tab=repositories`}
+  className="btn btn-outline-secondary mx-3 btn-lg"
+>
+  <i className="fab fa-github" /> More Latest Projects
+</a>
+</div>
+    </Jumbotron>
+   </>
     
   );
   
