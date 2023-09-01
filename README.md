@@ -144,6 +144,4 @@ This project has been archived. Means that it is no longer actively maintained b
 
 ## Stargazers over time
 
-## Stargazers over time
-
 [![Stargazers over time](https://starchart.cc/benawi/Portfolio-React-App.svg)](https://starchart.cc/benawi/Portfolio-React-App)
