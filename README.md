@@ -8,7 +8,7 @@
     <a href="https://benawi.github.io/Portfolio-React-App/">benawi</a>
     <br />
     <br />
-    <a href="https://benawi.github.io">About Me</a>
+    <a href="https://benawi.github.io/Portfolio-React-App/#aboutme">About Me</a>
   </p>
 </p>
 
