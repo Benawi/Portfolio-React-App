@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-React-App/static/css/main.dce5c223.css",
-    "main.js": "/Portfolio-React-App/static/js/main.b510cc0a.js",
+    "main.css": "/Portfolio-React-App/static/css/main.b47ac8e7.css",
+    "main.js": "/Portfolio-React-App/static/js/main.7ddabe4a.js",
     "static/js/787.4b24f717.chunk.js": "/Portfolio-React-App/static/js/787.4b24f717.chunk.js",
     "static/media/boeing.png": "/Portfolio-React-App/static/media/boeing.a0a6d6a8906b6eccbc2d.png",
     "static/media/HabtamuAlemayehu1.JPG": "/Portfolio-React-App/static/media/HabtamuAlemayehu1.b3030ce810198ff452a5.JPG",
@@ -11,12 +11,12 @@
     "static/media/HabtamuAlemayehu.jpg": "/Portfolio-React-App/static/media/HabtamuAlemayehu.53306bccc3dab5c443ae.jpg",
     "static/media/Microverse.png": "/Portfolio-React-App/static/media/Microverse.64022a3837abc4726419.png",
     "index.html": "/Portfolio-React-App/index.html",
-    "main.dce5c223.css.map": "/Portfolio-React-App/static/css/main.dce5c223.css.map",
-    "main.b510cc0a.js.map": "/Portfolio-React-App/static/js/main.b510cc0a.js.map",
+    "main.b47ac8e7.css.map": "/Portfolio-React-App/static/css/main.b47ac8e7.css.map",
+    "main.7ddabe4a.js.map": "/Portfolio-React-App/static/js/main.7ddabe4a.js.map",
     "787.4b24f717.chunk.js.map": "/Portfolio-React-App/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dce5c223.css",
-    "static/js/main.b510cc0a.js"
+    "static/css/main.b47ac8e7.css",
+    "static/js/main.7ddabe4a.js"
   ]
 }
