@@ -50,7 +50,7 @@ const mainBody = {
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+//        
 
 const about = {
   show: true,
@@ -58,8 +58,9 @@ const about = {
   imageLink: require("../editable-stuff/HabtamuAlemayehu.jpg"),
   imageSize: 375,
   message:
-    "Hi there! My name is Habtamu Alemayehu. I'm a software engineer holding a master's degree In Computer Science and Engineering, a full-stack developer with more than 7+ years of hands-on experience I specialize in Spring Boot, React/redux , Ruby, Rails development. I have a proven track record of creating efficient, scalable, and user-friendly applications. I was fascinated by the power of technology and how it could positively impact society.",
-  resume: "https://docs.google.com/document/d/1Kf1zLPSRRKZJrYjYxUpgatfUeWJf9acoE4b08GhUfnQ/edit",
+    "Hi there! My name is Habtamu Alemayehu. I am a full-stack software engineer with a Master's Degree in Computer Science and Engineering from Adama Science and Technology University. I have over 7 years of experience building web applications using JavaScript, React, Redux, Rails on Ruby, Java, Spring Boot, and other related technologies"
+    + " I recently completed an intensive Full-Stack Web Development program from Microverse, gaining expertise in modern developer tools and collaboration best practices like pair programming, code reviews, and Agile methodologies",
+  resume: "https://docs.google.com/document/d/168AVY3rsJ0BPQgjaBzisB8N962wpLmx66pQLSf6UwO0/edit",
 };
 
 // PROJECTS SECTION

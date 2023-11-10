@@ -39,7 +39,7 @@ function ContactForm() {
      <div  className="form-group  mb-3"> 
       <input  
         type="text"
-        placeholder="Please Enter Your Name"
+        placeholder="Your Name"
         value={name}
         onChange={(e) => setName(e.target.value)}
         className="form-control" required />
@@ -47,7 +47,7 @@ function ContactForm() {
       <div className="form-group  mb-3">
       <input
         type="email"
-        placeholder="Please Enter Your Email"
+        placeholder="Your Email"
         value={email}
         onChange={(e) => setEmail(e.target.value)}  
         className="form-control" required />
