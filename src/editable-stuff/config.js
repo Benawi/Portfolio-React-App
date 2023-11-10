@@ -105,26 +105,26 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Java", value: 98 },
-    { name: "Spring Boot", value: 85 },
-    { name: "Python", value: 90 },
+    { name: "Spring Boot", value: 95 },
+    { name: "Python", value: 87 },
     { name: "SQL", value: 95 },
-    { name: "Data Structures", value: 93 },
+    { name: "Data Structures", value: 96 },
     { name: "C/C++", value: 98 },
     { name: "JavaScript", value: 95 },
-    { name: "React", value: 90 },
-    { name: "Ruby", value: 85 },
-    { name: "Rails", value: 82 },
+    { name: "React", value: 97 },
+    { name: "Ruby", value: 95 },
+    { name: "Rails", value: 98 },
     { name: "HTML/CSS", value: 95 },
-    { name: "C#", value: 70 },
+    { name: "C#", value: 80 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 88 },
     { name: "Collaboration", value: 97 },
-    { name: "Positivity", value: 88 },
+    { name: "Positivity", value: 98 },
     { name: "Adaptability", value: 90 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Problem Solving", value: 95 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 85 },
+    { name: "Organization", value: 95 },
     { name: "Creativity", value: 90 },
   ],
 };
@@ -134,8 +134,9 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I am an aspiring Software Engineer seeking new full-time opportunities to further develop my skills and experience. If you are aware of any open software engineering roles that match my background, have any advice, or would simply like to connect, please feel free to email me at",
-  email: "habtamualemayehu16@gmail.com",
+    "I am a Full-Stack Software Developer seeking new full-time opportunities to further develop my skills and experience. If you are aware of any open software engineering roles that match my background, have any advice, or would simply like to connect, please feel free to email me at",
+  email: "habtamualemayehu16@gmail.com ",
+  inboxme:"Or Inbox me here",
 };
 
 const experiences = {

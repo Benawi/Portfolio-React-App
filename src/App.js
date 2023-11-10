@@ -22,7 +22,7 @@ import GetInTouch from "./components/home/GetInTouch.jsx";
 import Leadership from "./components/home/Leadership.jsx";
 
 import Experience from "./components/home/Experience";
-
+import ConstacForm from "./components/ContactForm"
 const Home = React.forwardRef((props, ref) => {
   return (
     <>
@@ -92,8 +92,12 @@ const App = () => {
             heading={getInTouch.heading}
             message={getInTouch.message}
             email={getInTouch.email}
+            inbox={getInTouch.inboxme}
           />
         )}
+         <div>
+      <ConstacForm /> 
+       </div>
       </Footer>
     </BrowserRouter>
   );
