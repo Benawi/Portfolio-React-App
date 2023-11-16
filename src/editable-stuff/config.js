@@ -80,12 +80,24 @@ const projectImg = {
   show: true,
   images: [
     { 
-      img: require("../editable-stuff/HabtamuAlemayehu1.JPG"), 
-      paragraph: "Lead a team of two software developers at Lois smart solution " 
+      img: require("../../src/assets/img/digital wallet.png"), 
+      paragraph: "Digital Wallet " 
     },
     { 
-      img: require("../editable-stuff/HabtamuAlemayehu2.jpg"), 
-      paragraph: "Lead a team of two software developers at Lois smart solution " 
+      img: require("../../src/assets/img/portifolio.png"), 
+      paragraph: "Portifolio " 
+    },
+    { 
+      img: require("../../src/assets/img/digital wallet1.png"), 
+      paragraph: "Digital Wallet " 
+    },
+    { 
+      img: require("../../src/assets/img/doctors.png"), 
+      paragraph: "Metric App " 
+    },  
+    { 
+      img: require("../../src/assets/img/portifolio2.png"), 
+      paragraph: "Metric App " 
     },
   ],
   imageSize: {
@@ -93,7 +105,7 @@ const projectImg = {
     height:"450"
   },
   ProjectimageSize: {
-    width:"630",
+    width:"430",
     height:"250"
   }
 };
@@ -193,4 +205,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences,projectImg };
+export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences, projectImg };
