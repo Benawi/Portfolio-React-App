@@ -3,7 +3,8 @@ import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 import Skeleton from "react-loading-skeleton";
 import axios from "axios";
-
+import ProjectImage from "./ProjectImage.jsx";
+import {projectImg} from "../../editable-stuff/config.js";
 const ProjectCard = ({ value }) => {
   const {
     name,
@@ -13,13 +14,21 @@ const ProjectCard = ({ value }) => {
     languages_url,
     pushed_at,
   } = value;
+
   return (
     <Col md={6}>
       <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
         <Card.Body>
           <Card.Title as="h5">{name || <Skeleton />} </Card.Title>
           <Card.Text>{(!description) ? "" : description || <Skeleton count={3} />} </Card.Text>
-          {svn_url ? <CardButtons svn_url={svn_url} /> : <Skeleton count={2} />}
+          {projectImg.show && (
+        <ProjectImage
+          img={projectImg.images}
+          imageSize={projectImg.ProjectimageSize}
+        />
+      )}
+      <br/>
+          {svn_url ? <CardButtons svn_url={svn_url} name={name} /> : <Skeleton count={2} />}
           <hr />
           {languages_url ? (
             <Language languages_url={languages_url} repo_url={svn_url} />
@@ -37,7 +46,10 @@ const ProjectCard = ({ value }) => {
   );
 };
 
-const CardButtons = ({ svn_url }) => {
+const CardButtons = ({ svn_url, name }) => {
+  const baseUrl = "https://benawi.github.io/";
+
+  const url = baseUrl + name;
   return (
     <div className="d-grid gap-2 d-md-block">
       <a
@@ -48,6 +60,10 @@ const CardButtons = ({ svn_url }) => {
       </a>
       <a href={svn_url} target=" _blank" className="btn btn-outline-secondary mx-2">
         <i className="fab fa-github" /> Repo
+      </a>
+     
+      <a href={url} target=" _blank" className="btn btn-outline-secondary mx-2">
+        <i className="fab fa-globe" /> Live
       </a>
     </div>
   );

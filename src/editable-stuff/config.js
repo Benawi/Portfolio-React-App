@@ -75,6 +75,28 @@ const repos = {
   reposLength: 4,
   specificRepos: [],
 };
+//Project Section
+const projectImg = {
+  show: true,
+  images: [
+    { 
+      img: require("../editable-stuff/HabtamuAlemayehu1.JPG"), 
+      paragraph: "Lead a team of two software developers at Lois smart solution " 
+    },
+    { 
+      img: require("../editable-stuff/HabtamuAlemayehu2.jpg"), 
+      paragraph: "Lead a team of two software developers at Lois smart solution " 
+    },
+  ],
+  imageSize: {
+    width:"630",
+    height:"450"
+  },
+  ProjectimageSize: {
+    width:"630",
+    height:"250"
+  }
+};
 
 // Leadership SECTION
 const leadership = {
@@ -97,6 +119,10 @@ const leadership = {
   imageSize: {
     width:"630",
     height:"450"
+  },
+  ProjectimageSize: {
+    width:"630",
+    height:"250"
   }
 };
 
@@ -167,4 +193,4 @@ const experiences = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences,projectImg };
