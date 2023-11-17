@@ -81,23 +81,27 @@ const projectImg = {
   images: [
     { 
       img: require("../../src/assets/img/digital wallet.png"), 
-      paragraph: "Digital Wallet " 
     },
     { 
       img: require("../../src/assets/img/portifolio.png"), 
-      paragraph: "Portifolio " 
     },
     { 
-      img: require("../../src/assets/img/digital wallet1.png"), 
-      paragraph: "Digital Wallet " 
+      img: require("../../src/assets/img/doctors2.png"), 
+    },
+    { 
+      img: require("../../src/assets/img/digital wallet1.png"),  
     },
     { 
       img: require("../../src/assets/img/doctors.png"), 
-      paragraph: "Metric App " 
+    },
+    { 
+      img: require("../../src/assets/img/portifolio2.png"),    
     },  
     { 
-      img: require("../../src/assets/img/portifolio2.png"), 
-      paragraph: "Metric App " 
+      img: require("../../src/assets/img/merric.png"),   
+    },
+    { 
+      img: require("../../src/assets/img/doctors1.png"), 
     },
   ],
   imageSize: {
@@ -105,8 +109,8 @@ const projectImg = {
     height:"450"
   },
   ProjectimageSize: {
-    width:"430",
-    height:"250"
+    width:"450",
+    height:"350"
   }
 };
 
