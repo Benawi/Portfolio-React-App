@@ -106,7 +106,7 @@ const projectImg = {
   ],
   imageSize: {
     width:"630",
-    height:"450"
+    height:"449"
   },
   ProjectimageSize: {
     width:"450",
