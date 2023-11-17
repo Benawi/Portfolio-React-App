@@ -50,7 +50,7 @@ Dependencies defined in package.json:
 
 - Navigation bar (optional)
 - Body
-  - Name | Profession
+  - Name |  Profession
   - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
   - Resume | About me
 - About Me
