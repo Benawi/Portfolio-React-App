@@ -38,7 +38,7 @@
 
 ## Technology Stack 🛠️
 
-Dependencies defined in package.json:
+Dependencies are defined in package.json:
 
 [Reactjs](https://reactjs.org/)
 | [Bootstrap](https://getbootstrap.com/)
