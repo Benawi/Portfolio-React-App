@@ -109,7 +109,7 @@ const projectImg = {
     height:"449"
   },
   ProjectimageSize: {
-    width:"440",
+    width:"460",
     height:"370"
   }
 };
