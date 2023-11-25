@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-React-App/static/css/main.b47ac8e7.css",
-    "main.js": "/Portfolio-React-App/static/js/main.a4889a92.js",
+    "main.js": "/Portfolio-React-App/static/js/main.ca765cab.js",
     "static/js/787.4b24f717.chunk.js": "/Portfolio-React-App/static/js/787.4b24f717.chunk.js",
     "static/media/doctors1.png": "/Portfolio-React-App/static/media/doctors1.f7381fc448eeb5aa0e36.png",
     "static/media/digital wallet1.png": "/Portfolio-React-App/static/media/digital wallet1.9097ea10430ec0b02835.png",
@@ -17,11 +17,11 @@
     "static/media/doctors.png": "/Portfolio-React-App/static/media/doctors.6d27b0307d2bbd75c4b5.png",
     "index.html": "/Portfolio-React-App/index.html",
     "main.b47ac8e7.css.map": "/Portfolio-React-App/static/css/main.b47ac8e7.css.map",
-    "main.a4889a92.js.map": "/Portfolio-React-App/static/js/main.a4889a92.js.map",
+    "main.ca765cab.js.map": "/Portfolio-React-App/static/js/main.ca765cab.js.map",
     "787.4b24f717.chunk.js.map": "/Portfolio-React-App/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b47ac8e7.css",
-    "static/js/main.a4889a92.js"
+    "static/js/main.ca765cab.js"
   ]
 }
