@@ -38,7 +38,7 @@
 
 ## Technology Stack 🛠️
 
-Dependencies defined in package.json:
+Dependencies are defined in package.json:
 
 [Reactjs](https://reactjs.org/)
 | [Bootstrap](https://getbootstrap.com/)
@@ -50,7 +50,7 @@ Dependencies defined in package.json:
 
 - Navigation bar (optional)
 - Body
-  - Name | Profession
+  - Name |  Profession
   - Contact / Follow / Find me / Facebook / LinkedIn / GitHub / Instagram / Email / CodePen
   - Resume | About me
 - About Me
@@ -119,6 +119,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 9. Congrats your site is up and running. To see it live, visit:
 
    ```https
+   
      https://<your-username>.github.io/Portfolio-React-App
    ```
 
