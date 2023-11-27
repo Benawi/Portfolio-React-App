@@ -72,7 +72,7 @@ Dependencies are defined in package.json:
 
 ## Sharing 💗
 
-Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add resume. Mark star ⭐ if you like the project.
+The project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add a resume. Mark star ⭐ if you like the project.
 
 ## Prerequisites 🍪
 
@@ -98,7 +98,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     "homepage": "https://<your-username>.github.io/Portfolio-React-App"
    ```
 
-   Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
+   Or for deployment at a custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
 
 7. After editing run the following bash commands:
 
