@@ -98,7 +98,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     "homepage": "https://<your-username>.github.io/Portfolio-React-App"
    ```
 
-   Or for deployment at a custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
+   Or for deployment at a custom domain, refer to [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
 
 7. After editing run the following bash commands:
 
@@ -107,7 +107,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
    npm start
    ```
 
-8. To deploy website, run:
+8. To deploy a website, run:
 
    ```bash
     npm run build
@@ -132,7 +132,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at habtamualemayehu16@gmail.com.
+Facing issues? Feel free to contact me at habtamualemayehu16@gmail.com.
 
 ## Showcase 🚀
 
